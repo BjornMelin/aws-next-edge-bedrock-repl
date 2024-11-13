@@ -10,7 +10,7 @@ This project and everyone participating in it is governed by our [Code of Conduc
 
 1. **Fork & Clone**
    ```bash
-   git clone https://github.com/yourusername/aws-next-edge-bedrock-repl.git
+   git clone https://github.com/BjornMelin/aws-next-edge-bedrock-repl.git
    cd aws-next-edge-bedrock-repl
    ```
 
